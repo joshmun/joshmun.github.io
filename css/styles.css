@@ -45,10 +45,43 @@ header {
 #tone {
 	padding: 50px 0px 0px 0px;
 	margin: 0px 24% 0px 0px;
-	font-size: 1.25em;
+	font-size: large;
+	font-weight: bold;
 }
 
 a:visited {
 	color: #FF7F50;
 }
 
+@media screen and (max-width: 500px) {
+  h2 {
+  	text-align: center;
+  }
+  h3 {
+  	text-align: center;
+  }
+#amp {
+	float: none;
+	display: block;
+	margin: 10px auto;
+}
+  .tone-w-text {
+  	text-align: center;
+  	position: static;
+  	vertical-align: center;
+  }
+  #tone {
+  	text-align: center;
+ 	display: block;
+ 	margin: auto;
+  }
+  #amp-top {
+  	float: none;
+  	display: block;
+  	margin: 10px auto;
+  	vertical-align: center;
+  }
+  h4 {
+  	text-align: center;
+  }
+}
