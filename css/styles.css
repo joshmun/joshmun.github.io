@@ -1,3 +1,54 @@
 body {
-	background: blue;
+	background-image: url("../web-backgrounds/cork-wallet.png");
+	max-width: 960px;
+	border: 5px groove;
+	padding: 20px 40px 20px 40px;
+	font-family: Sans-serif;
+	margin: auto;
+
 }
+
+img {
+	display: block;
+	margin: auto;
+	width: 80%;
+}
+
+#amp {
+	max-width: 400px;
+	float: left;
+	margin: 10px 50px 10px 10px
+}
+
+#amp-top {
+	float: right;
+	margin: 10px 10px 30px 50px;
+	max-width: 500px;
+}
+
+header {
+	border: 3px solid;
+	background: rgba(192, 192, 192,0.75);
+	text-align: center;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	font-variant: small-caps;
+	border-radius: 10px;
+}
+
+.tone-w-text {
+	position: relative;
+	text-align: right;
+
+}
+#tone {
+	padding: 50px 0px 0px 0px;
+	margin: 0px 24% 0px 0px;
+	font-size: 1.25em;
+}
+
+a:visited {
+	color: #FF7F50;
+}
+
