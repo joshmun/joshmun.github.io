@@ -1,87 +1,37 @@
-body {
-	background-image: url("../web-backgrounds/cork-wallet.png");
-	max-width: 960px;
-	border: 5px groove;
-	padding: 20px 40px 20px 40px;
-	font-family: Sans-serif;
-	margin: auto;
-
+.blue1 {
+  background-color: #122C34;
+}
+.blue1 p {
+  color: #FFFFFF;
 }
 
-img {
-	display: block;
-	margin: auto;
-	width: 80%;
+.blue2 {
+  background-color: #224870;
 }
 
-#amp {
-	max-width: 400px;
-	float: left;
-	margin: 10px 50px 10px 10px
+.blue2 p {
+  color: #FFFFFF;
 }
 
-#amp-top {
-	float: right;
-	margin: 10px 10px 30px 50px;
-	max-width: 500px;
+.blue3 {
+  background-color: #0084BA;
 }
 
-header {
-	border: 3px solid;
-	background: rgba(192, 192, 192,0.75);
-	text-align: center;
-	margin: auto;
-	margin-top: 10px;
-	margin-bottom: 20px;
-	font-variant: small-caps;
-	border-radius: 10px;
+.blue4 {
+  background-color: #D0E8F2;
 }
 
-.tone-w-text {
-	position: relative;
-	text-align: right;
-
-}
-#tone {
-	padding: 50px 0px 0px 0px;
-	margin: 0px 24% 0px 0px;
-	font-size: large;
-	font-weight: bold;
+.blue5 {
+  background-color: #FFFFFF;
 }
 
-a:visited {
-	color: #FF7F50;
+.center {
+  text-align: center;
+}
+footer {
+  padding: 25px 0;
 }
 
-@media screen and (max-width: 500px) {
-  h2 {
-  	text-align: center;
-  }
-  h3 {
-  	text-align: center;
-  }
-#amp {
-	float: none;
-	display: block;
-	margin: 10px auto;
-}
-  .tone-w-text {
-  	text-align: center;
-  	position: static;
-  	vertical-align: center;
-  }
-  #tone {
-  	text-align: center;
- 	display: block;
- 	margin: auto;
-  }
-  #amp-top {
-  	float: none;
-  	display: block;
-  	margin: 10px auto;
-  	vertical-align: center;
-  }
-  h4 {
-  	text-align: center;
-  }
+.landing-page h1 {
+  font-weight: 500;
 }
