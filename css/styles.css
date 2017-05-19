@@ -110,3 +110,7 @@ h1.pjx-title {
   display: flex;
   justify-content: center;
 }
+
+.justify {
+  text-align: justify;
+}
