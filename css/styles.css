@@ -123,7 +123,7 @@ h2.poke {
 div.profile {
   display: inline-block;
   width: 75%;
-  height: 350px;
+  height: 25%;
   background-color: #1B1A19;
   box-shadow: 5px 14px 8px 5px rgba(0, 0, 0, .4);
 }
