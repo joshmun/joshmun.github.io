@@ -123,9 +123,10 @@ h2.poke {
 div.profile {
   display: inline-block;
   width: 75%;
-  height: 25%;
+  height: auto;
+  border-radius: 50%;
   background-color: #1B1A19;
-  box-shadow: 5px 14px 8px 5px rgba(0, 0, 0, .4);
+  box-shadow: 5px 12px 10px 0px rgba(0, 0, 0, .4);
 }
 
 .resume {
@@ -144,12 +145,23 @@ div.contact-icons a {
 }
 
 a.download {
+  margin: 5px;
   border: 1px solid;
   padding: 5px 30px 5px 30px;
   font-size: 32px;
   font-weight: 200;
   color: #00B6FF;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
 }
 a.download:hover {
   color: #0084BA;
+}
+
+.profile-picture {
+  border-radius: 50%;
+  vertical-align: middle;
+}
+
+.about {
+  text-align: center;
 }
