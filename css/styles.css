@@ -165,3 +165,7 @@ a.download:hover {
 .about {
   text-align: center;
 }
+
+object {
+  margin: auto;
+}
