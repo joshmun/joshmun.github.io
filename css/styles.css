@@ -167,5 +167,31 @@ a.download:hover {
 }
 
 object {
-  margin: auto;
+  vertical-align: middle;
+  width: 100%;
+  height: 100vh;
+}
+
+.modal-dialog {
+    margin: auto;
+    position: absolute;
+    max-width: 100%;
+    max-height: auto;
+    margin-left: 20%;
+}
+
+.modal-content {
+    margin: 0 auto;
+    display: inline-block;
+    align-self: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.modal-body {
+    position: relative;
+    overflow: hidden;
+    padding: 0px;
+    margin: 0px;
+    width: 60vw;
 }
