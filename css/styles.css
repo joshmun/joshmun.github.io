@@ -196,3 +196,7 @@ object {
     margin: 0px;
     width: 60vw;
 }
+
+div.project-icon:hover {
+  background-color: rgba(0, 0, 0, 0.4);
+}

@@ -1,0 +1,36 @@
+section.page1 {
+  background-color: #D0E8F2;
+  text-align: center;
+}
+
+div.row.overview {
+  padding-left: 6%;
+  margin-top: 25px;
+}
+
+section.page1 div.content {
+  display: inline-block;
+  width: 30%;
+  height: auto;
+  text-align: justify;
+  padding: 0 20px 0 5px;
+
+}
+
+div.title-image {
+  text-align: center;
+}
+
+img#cornman-title {
+  width: 75%; 
+  height: auto;
+  max-width: 800px;
+  max-height: auto;
+}
+
+img#cornman-cpu {
+  width: 40%; 
+  height: auto;
+  max-width: 700px;
+  max-height: auto;
+}
