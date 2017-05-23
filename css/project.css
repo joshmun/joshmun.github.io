@@ -138,6 +138,11 @@ div.deploy-image img {
 
 }
 
+div.video {
+  display: inline-block;
+  width: 40%;
+}
+
 div.content-bottom {
   background-image: url(../images/vectorbottom.jpg);
   background-size: 75%;

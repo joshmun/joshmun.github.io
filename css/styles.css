@@ -205,10 +205,20 @@ a.project-link p {
   color: black;
 }
 
+a.project-link h2 {
+  color: black;
+}
+
 a.project-link:hover p {
   color: #0084BA;
   text-decoration: none;
 }
+
+a.project-link:hover h2 {
+  color: #0084BA;
+  text-decoration: none;
+}
+
 /*div.project-icon:hover {
   background-color: rgba(0, 0, 0, 0.4);
 }*/
