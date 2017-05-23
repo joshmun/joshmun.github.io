@@ -155,6 +155,7 @@ a.download {
 }
 a.download:hover {
   color: #0084BA;
+  text-decoration: none;
 }
 
 .profile-picture {
