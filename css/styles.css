@@ -197,6 +197,18 @@ object {
     width: 60vw;
 }
 
-div.project-icon:hover {
-  background-color: rgba(0, 0, 0, 0.4);
+a.project-link {
+  text-decoration: none;
 }
+
+a.project-link p {
+  color: black;
+}
+
+a.project-link:hover p {
+  color: #0084BA;
+  text-decoration: none;
+}
+/*div.project-icon:hover {
+  background-color: rgba(0, 0, 0, 0.4);
+}*/
