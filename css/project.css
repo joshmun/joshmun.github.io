@@ -9,11 +9,16 @@ div.row.overview {
 }
 
 section.page1 div.content {
+  vertical-align: top;
   display: inline-block;
   width: 30%;
   height: auto;
   text-align: justify;
   padding: 0 20px 0 5px;
+
+}
+
+#cornman {
 
 }
 
@@ -33,4 +38,8 @@ img#cornman-cpu {
   height: auto;
   max-width: 700px;
   max-height: auto;
+}
+
+section.page2 {
+  background-color: #0084BA;
 }
