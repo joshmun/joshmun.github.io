@@ -29,6 +29,23 @@ section.page2 div.content {
 
 }
 
+div.phase-1 {
+  display: inline-block;
+  width: 40%;
+  text-align: center;
+}
+
+div.kanban {
+  width: 300px;
+  height: auto;
+  box-shadow: 5px 12px 10px 0px rgba(0, 0, 0, .4);
+  margin: auto;
+}
+
+div.phase-1 img {
+  vertical-align: middle;
+}
+
 p {
   text-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 1);
 }
