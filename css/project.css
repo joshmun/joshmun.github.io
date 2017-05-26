@@ -32,10 +32,11 @@ section.page2 div.content {
 div.phase-1 {
   display: inline-block;
   width: 40%;
+  text-align: center;
 }
 
 div.kanban {
-  width: 400px;
+  width: 300px;
   height: auto;
   box-shadow: 5px 12px 10px 0px rgba(0, 0, 0, .4);
   margin: auto;
