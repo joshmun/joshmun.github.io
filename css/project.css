@@ -50,8 +50,14 @@ p {
   text-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 1);
 }
 
-#cornman {
+#play {
+  width: 15%;
+  height: auto;
+}
 
+#cornman {
+  width: 25%;
+  height: auto;
 }
 
 div.title-image {
