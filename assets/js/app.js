@@ -14,4 +14,6 @@ $(document).ready(function(){
   else {
     $('div.media').hide();
   }
+
+  
 })
